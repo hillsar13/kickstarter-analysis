@@ -9,12 +9,14 @@ We completed analyses on campaign outcomes based on launch dates and fundraising
 ### Analysis of Outcomes Based on Launch Date
 Our pivot table created to reflect outcomes based on launch date returned advisable points. Successful campaigns seemed to fair best when launch in the summer months (peak month of May), and experienced a lull in successful outcomes in the later part of the year (Lowest month for success was December).
 
-![Theater_Outcomes_vs_Launch.png](path/to/image_name.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95551195/147607940-da044094-6d2f-4bed-92b7-71808d03a058.png)
+
 
 ### Analysis of Outcomes Based on Goals
 Our Analyses on outcomes based on goals returned advisable points. Campaigns experienced the most success when their fundarising goal was less than $1,000 (close to 80% success rate). This number steadily drops to a 20% successrate when campaigns sought fundraising goals between $25,000-$29,999. Campaigns had their largest fail rates when the fundarising goal was set from $25,000-$34,999. However, there was a considerable amount of success (upwards of 60%) when campaigns held fundarising goals between $35,000-$44,999. Campaigns above $45,000 have a considerable fail rate, with fewer than 20% successful.
 
-![Outcomes_vs_Goals.png](path/to/image_name.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95551195/147607961-8da54cca-b4c3-49d1-8a2c-818c95d83ed8.png)
+
 
 ### Challenges and Difficulties Encountered
 A challenge exhibited in both analyses was determining correct filters and parameters to reflect the correct outcomes above. After numerous attempts, accurate parameters were set to reflect the data. 
